@@ -1,0 +1,6 @@
+URI = 'https://synology.example.com:5001'
+
+CREDENTIALS = {'method': 'Login', 'version': '2',
+               'account': 'username', 'passwd': 'password',
+               'session': 'SurveillanceStation'}
+
